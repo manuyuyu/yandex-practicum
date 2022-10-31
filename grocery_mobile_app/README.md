@@ -9,12 +9,4 @@ Pandas
 Matplotlib  
 Seaborn  
 Plotly  
-Scipy  
-
-## Описание данных
-
-Файл logs_exp.csv
-* EventName — название события;
-* DeviceIDHash — уникальный идентификатор пользователя;
-* EventTimestamp — время события;
-* ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+SciPy
